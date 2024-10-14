@@ -4,6 +4,29 @@
 ### Título del proyecto:
 ### Integrantes: 
 
+<h2 align="center">Ariadna Gutierrez</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariadna-gutierrez-8795a229b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AriadnaG01">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
+  </a>
+</p>
+
+<h2 align="center">Agustin Santa Cruz</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariadna-gutierrez-8795a229b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AriadnaG01">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
+  </a>
+</p>
+
+
 * Ariadna Gutierrez
     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariadna-gutierrez-8795a229b/)
     [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AriadnaG01)
