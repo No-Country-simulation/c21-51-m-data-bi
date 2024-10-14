@@ -15,33 +15,51 @@
   </a>
 </p>
 
-<h2 align="center">Agustin Santa Cruz</h2>
+<h3 align="center">Agustin Santa Cruz</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ariadna-gutierrez-8795a229b/">
+  <a href="">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/AriadnaG01">
+  <a href="">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
+  </a>
+</p>
+
+<h3 align="center">Sabrina Bonomo</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabrina-natalia-bonomo-582b00217/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Sabrina240597">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
+  </a>
+</p>
+<h3 align="center">Stefania Salazar</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stefani-s/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/StefaniaSalazar/StefaniaSalazar.github.io">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
+  </a>
+</p>
+
+<h3 align="center">Alfredo Lopez</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-alfredo-lopez-castro/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Alop89">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
   </a>
 </p>
 
 
-* Ariadna Gutierrez
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariadna-gutierrez-8795a229b/)
-    [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AriadnaG01)
-* Agustin Santa Cruz
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-    [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)]()
-* Sabrina Bonomo
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-natalia-bonomo-582b00217/)
-    [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabrina240597)
-* Stefania Salazar 
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefani-s/)
-    [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StefaniaSalazar/StefaniaSalazar.github.io)
-* Alfredo Lopez 
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alfredo-lopez-castro/)
-    [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alop89)
+
 ### Software empleadas en el proyecto:
 * Power BI ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 * VS Code ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
