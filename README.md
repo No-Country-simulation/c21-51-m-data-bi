@@ -4,7 +4,7 @@
 ### Título del proyecto:
 ### Integrantes: 
 
-<h2 align="center">Ariadna Gutierrez</h2>
+<h3 align="center">Ariadna Gutierrez</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ariadna-gutierrez-8795a229b/">
