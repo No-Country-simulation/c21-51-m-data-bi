@@ -1,5 +1,4 @@
-# README: Análisis de Problemáticas del 
-# E-Commerce
+# README:Análisis de Problemáticas del E-Commerce
 
 ## Descripción de la Gráfica
 La gráfica es un gráfico de dona que muestra qué problemas son los más mencionados por los usuarios y qué porcentaje representa cada uno. Aquí te explicamos las categorías que se evaluaron:
