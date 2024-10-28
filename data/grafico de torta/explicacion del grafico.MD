@@ -22,5 +22,3 @@ Esta gráfica se construyó con los datos obtenidos de un cuestionario realizado
 
 Conclusión
 Los resultados muestran que los principales factores que influyen en el abandono del carrito son los comentarios de otros usuarios, el tiempo de carga del sitio y la calidad de las imágenes de los productos. Estos puntos son claves para mejorar la experiencia del usuario y, en consecuencia, aumentar las ventas en el sitio.
-
-Si tienes alguna pregunta o te gustaría discutir más a fondo los resultados, no dudes en contactarnos.
