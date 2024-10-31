@@ -66,3 +66,58 @@
 El alto índice de abandono de carritos de compra en la industria del comercio electrónico representa una oportunidad perdida para aumentar las ventas y mejorar la satisfacción del cliente. Este proyecto tiene como objetivo comprender las razones detrás de este comportamiento a través de un análisis exhaustivo de los datos de navegación y las interacciones de los usuarios, para identificar los puntos críticos del proceso de compra que generan fricción y desalientan la finalización de las transacciones. Con base en los hallazgos, se propondrán soluciones personalizadas para reducir la tasa de abandono y aumentar las conversiones.
 
 ### Enlaces relevantes del proyecto
+
+
+# Presentación de los resultados del proyecto
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación Kaeleido Consultora</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            border: 2px solid #0078D4;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #0078D4;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #0078D4;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #005a9e;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Presentación Kaeleido Consultora</h1>
+        <p>Haz clic en el siguiente botón para ver la presentación:</p>
+        <a class="button" href="https://view.genially.com/6721b599186834c1ad285759/presentation-kaeleidoconsultora" target="_blank">Ver Presentación</a>
+    </div>
+</body>
+</html>
