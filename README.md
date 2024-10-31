@@ -15,17 +15,6 @@
   </a>
 </p>
 
-<h3 align="center">Agustin Santa Cruz</h3>
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
-  </a>
-</p>
-
 <h3 align="center">Sabrina Bonomo</h3>
 
 <p align="center">
